@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "LeetCode_e41e1128"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PivotIndex",
             "request": "launch",
             "mainClass": "PivotIndex"
